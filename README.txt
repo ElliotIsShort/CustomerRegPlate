@@ -1,0 +1,3 @@
+All the files you should need to run this project are in the node folder. This project has not been dockerised but is able to be run by running the spring webservice jar file and using "node server.js" in the node file. This will run the service on localhost:3000. If for whatever reason running the jar file in springwebservice doesn't work in the LicencePlate file there is all the Spring boot and if you run that project it should work as intented.
+Youtube Video: https://www.youtube.com/watch?v=pYnWIQ9oBsU
+If there are any other problems e.g missing parts, youtube video not working etc contact me on ElliotIsShort@gmail.com
